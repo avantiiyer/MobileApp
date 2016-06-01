@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Avanti\Downloads\BandStreamingApp-master\BandStreamingApp-master\app\libs\microsoft-band-1.3.10622.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66970fb037e530fb6db86ec0ce1eba341e837cb7">
+        <dex dex="C:\Users\Avanti\Downloads\BandStreamingApp-master\BandStreamingApp-master\app\build\intermediates\pre-dexed\debug\microsoft-band-1.3.10622.3-d95382b505cfa923cc8aaafe5b5d8d72a987b712.jar" />
+    </item>
+
+</items>
